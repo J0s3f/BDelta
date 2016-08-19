@@ -4,6 +4,7 @@
 
 #ifdef __cplusplus
 extern "C" {
+#include <inttypes.h>
 #endif // __cplusplus
 
 typedef struct _BDelta_Instance BDelta_Instance;
